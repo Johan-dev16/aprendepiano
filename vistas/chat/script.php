@@ -28,6 +28,9 @@
 
         function loadMessages() {
             $.get("index.php?c=chat&a=consultar", function(data) {
+                data = JSON.stringify(data)
+                data = JSON.parse(data)
+
                 $("#chat-messages").html(data);
             });
         }
