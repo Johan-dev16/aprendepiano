@@ -10,7 +10,7 @@ AprendePiano es una aplicacion web para hacer pruebas de chat.
 
 ## Instalación
 
-Para instalar MyApp, sigue estos pasos:
+Para instalar AprendePiano, sigue estos pasos:
 
 1. Clone este repositorio: `git clone https://github.com/Johan-dev16/aprendepiano.git`
 2. Navega al directorio del proyecto: `cd myapp`
