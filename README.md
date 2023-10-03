@@ -29,5 +29,5 @@ Una vez que la aplicación esté instalada, puedes iniciarla y acceder a ella en
 1. Crea un fork del repositorio.
 2. Crea una rama para tu contribución: `git checkout -b mi-contribucion`
 3. Realiza tus cambios y haz commit: `git commit -m "Añadido nueva característica"`
-4. Envía un pull request a la rama principal de MyApp.
+4. Envía un pull request a la rama principal de AprendePiano.
 
