@@ -12,7 +12,7 @@ AprendePiano es una aplicacion web para hacer pruebas de chat.
 Para instalar AprendePiano, sigue estos pasos:
 
 1. Clone este repositorio: `git clone https://github.com/Johan-dev16/aprendepiano.git`
-2. Navega al directorio del proyecto: `cd myapp`
+2. Navega al directorio del proyecto: `cd aprendePiano`
 3. Instala las dependencias: `npm install`
 4. Inicia la aplicación: `npm start`
 
@@ -24,10 +24,9 @@ Una vez que la aplicación esté instalada, puedes iniciarla y acceder a ella en
 
 ## Contribución
 
-¡Contribuciones son bienvenidas! Si deseas contribuir a MyApp, sigue estos pasos:
+¡Contribuciones son bienvenidas! Si deseas contribuir a aprendePiano, sigue estos pasos:
 
 1. Crea un fork del repositorio.
 2. Crea una rama para tu contribución: `git checkout -b mi-contribucion`
 3. Realiza tus cambios y haz commit: `git commit -m "Añadido nueva característica"`
 4. Envía un pull request a la rama principal de AprendePiano.
-
