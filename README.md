@@ -6,7 +6,6 @@ AprendePiano es una aplicacion web para hacer pruebas de chat.
 1. [Instalación](#instalación)
 2. [Uso](#uso)
 3. [Contribución](#contribución)
-4. [Licencia](#licencia)
 
 ## Instalación
 
@@ -19,13 +18,9 @@ Para instalar AprendePiano, sigue estos pasos:
 
 ## Uso
 
-Una vez que la aplicación esté instalada, puedes iniciarla y acceder a ella en tu navegador en `http://localhost:3000`. MyApp te permite:
+Una vez que la aplicación esté instalada, puedes iniciarla y acceder a ella en tu navegador en `http://localhost:3000`. AprendePiano te permite:
 
-- Crear y gestionar tareas y proyectos.
-- Establecer fechas de vencimiento y prioridades para tus tareas.
-- Marcar tareas como completadas.
-- Filtrar y buscar tareas y proyectos.
-
+- Crear Usuarios y gestionar salas de chat en vivo.
 
 ## Contribución
 
